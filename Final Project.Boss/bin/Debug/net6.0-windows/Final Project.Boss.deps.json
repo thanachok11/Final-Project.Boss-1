@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Final Project.Boss/1.0.0": {
+        "runtime": {
+          "Final Project.Boss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final Project.Boss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

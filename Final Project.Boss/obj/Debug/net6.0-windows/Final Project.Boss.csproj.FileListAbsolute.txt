@@ -1,0 +1,20 @@
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\bin\Debug\net6.0-windows\Final Project.Boss.exe
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\bin\Debug\net6.0-windows\Final Project.Boss.deps.json
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\bin\Debug\net6.0-windows\Final Project.Boss.runtimeconfig.json
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\bin\Debug\net6.0-windows\Final Project.Boss.dll
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\bin\Debug\net6.0-windows\Final Project.Boss.pdb
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final_Project.Boss.Pay.resources
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final_Project.Boss.Print.resources
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final_Project.Boss.Properties.Resources.resources
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final_Project.Boss.Room.resources
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.AssemblyInfo.cs
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.dll
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\refint\Final Project.Boss.dll
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.pdb
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\Final Project.Boss.genruntimeconfig.cache
+C:\Users\Pc\source\repos\Final Project.Boss\Final Project.Boss\obj\Debug\net6.0-windows\ref\Final Project.Boss.dll
